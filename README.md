@@ -15,7 +15,7 @@ Ideally, functions likely to be useful for other pieces of infrastructure or tes
 ```text
 server: connect.nustem.uk
 user:   connect
-pass:   sent by separate method, I'm not that daft. 
+pass:   sent by separate method, I'm not that daft.
         (do not check into Github!)
 
 Topic:              /MOOD   (both send and subscribe)
