@@ -39,7 +39,7 @@ At the moment, the Kniwwelino code sends binary representations of the 5x5 matri
 
 ...but that's a ridiculous way of doing things which I'll refactor at the Arduino library end. Nevertheless, it's worth bearing in mind that all parts of this might change.
 
-(Placeholder) PNGs of the mood icons are included in `src/img/`.
+(Placeholder) PNGs of the mood icons are included in `src/img/`. We should probably replace these, even if we use similar unicode characters - they're filched from somewhere else.
 
 ## Notes
 
